@@ -11,6 +11,6 @@ Parámetros para ejemplo de prueba (Predicción rendimiento de estudiantes):
 
 · Proporción de entrenamiento: 0,7
 
-· Datos de entrenamiento y testeo: [Datos de entrenamiento y testeo](Clasificacion_bayesiana/Archivos_csv/data_entrenamiento)
+· Datos de entrenamiento y testeo: [Datos de entrenamiento y testeo](Archivos_csv/data_entrenamiento)
 
-· Datos de predicción: [Datos de predicción](Clasificacion_bayesiana/Archivos_csv/data_prediccion)
+· Datos de predicción: [Datos de predicción](Archivos_csv/data_prediccion)
