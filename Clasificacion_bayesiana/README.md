@@ -5,7 +5,7 @@ Esta App realiza la clasificación de datos mediante el entrenamiento de un mode
 
 Parámetros para ejemplo de prueba (Predicción rendimiento de estudiantes):
 
-· Nombre de la variable clase: Evaluación
+· Nombre de la variable clase: Evaluacion
 
 · Dominio de la clase (separados por comas): Insuficiente,Suficiente,Bien,Notable,Sobresaliente,Matricula de honor
 
