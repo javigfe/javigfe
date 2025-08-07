@@ -2,9 +2,15 @@ Esta App realiza la clasificación de datos mediante el entrenamiento de un mode
 
 🔗 **Probar la app aquí:** [Abrir en shinyapps.io](https://javigfe.shinyapps.io/presentacion/)
 
+
 Parámetros para ejemplo de prueba (Predicción rendimiento de estudiantes):
+
 · Nombre de la variable clase: Evaluación
+
 · Dominio de la clase (separados por comas): Insuficiente,Suficiente,Bien,Notable,Sobresaliente,Matricula de honor
+
 · Proporción de entrenamiento: 0,7
+
 · Datos de entrenamiento y testeo: [Datos de entrenamiento y testeo](Archivos .csv/data_entrenamiento)
+
 · Datos de predicción: [Datos de predicción](Archivos .csv/data_prediccion)
