@@ -5,5 +5,7 @@ I’m a Mathematics graduate passionate about Data Science, Machine Learning, an
 Here you’ll find projects related to:
 
 🤖 Machine learning models
+
 📊 Data analysis and visualization
+
 🔧 Beta versions of apps
